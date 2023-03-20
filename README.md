@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi, There! 👋
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tmvlzj49)](https://solved.ac/tmvlzj49)
+
+# Contacts
+email:jhl9804@naver.com
 <!--
 **gndldl/gndldl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
